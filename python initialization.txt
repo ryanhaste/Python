@@ -1,1 +1,2 @@
 python initialization
+ learning python
